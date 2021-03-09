@@ -1,5 +1,5 @@
-# ignore the pds
-*.pdf
+# ignore the pdfs
+*/*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
