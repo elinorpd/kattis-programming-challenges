@@ -58,7 +58,7 @@ Programming challenges on [Kattis](https://open.kattis.com/) for McGill course [
 - [Logo](https://open.kattis.com/problems/logo): [Python](https://github.com/elinorpd/programming-challenges-comp321/blob/main/A10/logo_260883135.py)
 
 ## A11
-- [Perfect Pth Powers](https://open.kattis.com/problems/perfectpowers): [Java](
+- [Perfect Pth Powers](https://open.kattis.com/problems/perfectpowers): [C++](https://github.com/elinorpd/programming-challenges-comp321/blob/main/A11/perfectpowers_260883135.cpp)
 
 ## Contest 3
 - [Train Passengers](https://open.kattis.com/problems/trainpassengers): [Java](https://github.com/elinorpd/programming-challenges-comp321/blob/main/Contest3/trainpassengers_260883135.java)
